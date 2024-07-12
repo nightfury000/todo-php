@@ -9,7 +9,7 @@ If you are using a Lightsail LAMP instance, the following instructions will take
 
         cd /opt/bitnami/apache2/htdocs && \
         rm -rf && \
-        git clone https://github.com/mikegcoleman/todo-php .
+        git clone https://github.com/nightfury000/todo-php .
 
 * Create the *configs* directory and make the bitnami user the owner. 
 
